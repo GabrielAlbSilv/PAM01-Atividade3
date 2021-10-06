@@ -53,6 +53,7 @@
             />
 
         <Button
+            android:id="@+id/btnCads"
             android:background="@drawable/stylebotao"
             android:layout_width="180dp"
             android:layout_height="50dp"
